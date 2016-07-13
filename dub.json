@@ -1,0 +1,10 @@
+{
+	"name": "novaposhta-unofficial-bot",
+	"description": "A simple vibe.d server application.",
+	"copyright": "Copyright © 2016, zunkree",
+	"authors": ["zunkree"],
+	"dependencies": {
+		"vibe-d": "~>0.7.29"
+	},
+	"versions": ["VibeDefaultMain"]
+}
