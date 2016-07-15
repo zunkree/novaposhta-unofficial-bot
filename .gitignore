@@ -1,4 +1,6 @@
 .dub
+dub.userprefs
+novaposhta-unofficial-bot
 docs.json
 __dummy.html
 *.o
